@@ -38,3 +38,7 @@ The error was 'BadValue (integer parameter out of range for operation)'.
    backtrace from your debugger if you break on the gdk_x_error() function.)
 
 
+
+https://askubuntu.com/questions/541343/problems-with-libgl-fbconfigs-swrast-through-each-update
+
+
