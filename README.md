@@ -19,11 +19,16 @@ nvidia-docker run  --shm-size=8gb   -it -v `pwd`:/workspace -e DISPLAY=unix$DISP
 
 
 # 错误
-Gtk-Message: Failed to load module "canberra-gtk-module"
+Gtk-Message: Failed to load module "canberra-gtk-module" 
+
 libGL error: No matching fbConfigs or visuals found
+
 libGL error: failed to load driver: swrast
+
 The program 'Depth' received an X Window System error.
+
 This probably reflects a bug in the program.
+
 The error was 'BadValue (integer parameter out of range for operation)'.
   (Details: serial 51 error_code 2 request_code 154 minor_code 3)
   (Note to programmers: normally, X errors are reported asynchronously;
